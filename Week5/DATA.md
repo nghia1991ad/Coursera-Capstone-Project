@@ -5,5 +5,3 @@
 ## Geocode the data
 ##### Due to some difficulties to find API geocode, I do not present the code here to get the lat, lon of the venues. Also, the length of the data is cut down to 48.
 ##### The lat, lon data are shown in taipei_add_geocode.csv
-## Foursquare data
-##### After getting the lat/lon of various neighborhood in Taipei, will use Foursquare data to get the most popular venues in each neighborhood
